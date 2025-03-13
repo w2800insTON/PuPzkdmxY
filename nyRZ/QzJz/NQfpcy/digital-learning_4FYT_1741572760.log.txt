@@ -35,7 +35,6 @@ endif()
 		source/gui/ProjectTab/ProjectThumbnailPushButton.h
 		source/gui/ProjectTab/ProjectWidget.cpp
 		source/gui/ProjectTab/ProjectWidget.h
-		source/gui/ProcessTab/ProcessWidget.cpp
 		source/gui/ProcessTab/ProcessWidget.h
 		source/gui/ProcessTab/PipelineScriptEditorWidget.cpp
 		source/gui/ProcessTab/PipelineScriptEditorWidget.h
